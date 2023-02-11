@@ -1,0 +1,8 @@
+bot_tokens:
+  - YOUR_BOT_TOKEN_1_HERE
+  - YOUR_BOT_TOKEN_2_HERE
+channel_ids:
+  - CHANNEL_ID_1
+  - CHANNEL_ID_2
+message_on_join: true
+message_on_leave: true
